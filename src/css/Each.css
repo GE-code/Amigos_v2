@@ -1,0 +1,17 @@
+.Each {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    justify-content: space-between;
+    height:70px;
+    border-bottom: 1px solid #ccc;
+}
+
+.chat_row{
+    flex:1;
+    margin-left: 20px;
+}
+
+.chat_row >p {
+    color: rgb(192, 180, 180);
+}

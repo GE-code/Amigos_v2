@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify913d8a8a59ba4-staging-40638-authRole",
+      "UnauthRoleArn": "arn:aws:iam::088070215874:role/amplify-amplify913d8a8a59ba4-staging-40638-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::088070215874:role/amplify-amplify913d8a8a59ba4-staging-40638-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify913d8a8a59ba4-staging-40638-deployment",
+      "UnauthRoleName": "amplify-amplify913d8a8a59ba4-staging-40638-unauthRole",
+      "StackName": "amplify-amplify913d8a8a59ba4-staging-40638",
+      "StackId": "arn:aws:cloudformation:us-east-1:088070215874:stack/amplify-amplify913d8a8a59ba4-staging-40638/8831f1a0-8409-11ed-aabd-12bebd4450e9",
+      "AmplifyAppId": "d3nwezgdcr3xda"
+    },
+    "categories": {
+      "auth": {
+        "Amigos": {}
+      }
+    }
+  }
+}

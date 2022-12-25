@@ -1,0 +1,31 @@
+.header {
+    justify-content: space-between;
+    display: flex;
+    border-bottom: 1px solid #ccc;
+    height:10vh;
+    align-items: center;
+    background-color: white;
+    font-size: 30px;
+}
+
+.header .icon {
+    height: 90px;
+    width:90px;
+    object-fit: contain;
+    padding: 20px;
+}
+
+.welcome {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #ccc;
+    height:10vh;
+    align-items: center;
+    background-color: white;
+    font-size: 30px;
+}
+
+.header .a{
+    position: absolute;
+    left: 44%;
+}
